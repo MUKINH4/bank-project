@@ -1,6 +1,6 @@
 package com.example.bank_project.dto;
 
-public class DepositRequest {
+public class TransactionRequest {
     private Long id;
     private double amount;
     
