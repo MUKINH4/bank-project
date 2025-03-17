@@ -8,7 +8,7 @@ public class MembersController {
     
     @GetMapping
     public String mostrarMembros(){
-        return "Samuel Heitor - RM 556731 \nLucas Nicolini - RM 557613";
+        return "Digital Bank Project\nSamuel Heitor - RM 556731 \nLucas Nicolini - RM 557613";
     }
 
 }
